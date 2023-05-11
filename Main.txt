@@ -1,0 +1,15 @@
+# apt update
+# apt install software-properties-common
+# apt-add-repository ppa:ansible/ansible
+# apt update
+# apt install ansible
+# apt update
+# apt install python
+# nano /etc/ansible/hosts
+# ansible -m ping all
+# mkdir /ansible
+# cd /ansible
+# nano index.html
+# nano playbook.yml
+# ansible-playbook playbook.yml
+# service apache2 status
